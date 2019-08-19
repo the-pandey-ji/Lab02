@@ -7,6 +7,6 @@ public class Question6 {
         Scanner scanner = new Scanner(System.in);
         char ch1 = scanner.nextLine().trim().charAt(0);
         char ch2 = scanner.nextLine().trim().charAt(0);
-
+        scanner.close();
     }
 }

@@ -7,6 +7,10 @@ public class Question3 {
         Scanner scanner = new Scanner(System.in);
         int value1 = scanner.nextInt();
         int value2 = scanner.nextInt();
-
+        System.out.println(value1 + " + " + value2 + " = " + (value1 + value2));
+        System.out.println(value1 + " - " + value2 + " = " + (value1 - value2));
+        System.out.println(value1 + " * " + value2 + " = " + (value1 * value2));
+        System.out.println(value1 + " / " + value2 + " = " + (value1 / value2));
+        System.out.println(value1 + " % " + value2 + " = " + (value1 % value2));
     }
 }

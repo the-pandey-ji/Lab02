@@ -11,6 +11,7 @@ public class Question5 {
         } else {
             System.out.println("Odd");
         }
+        scanner.close();
 
     }
 }

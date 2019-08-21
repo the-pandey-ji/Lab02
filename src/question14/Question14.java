@@ -16,6 +16,6 @@ public class Question14 {
         } else {
             System.out.println(n + " is not a palindrome");
         }
-
+scanner.close();
     }
     }

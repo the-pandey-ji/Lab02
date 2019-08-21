@@ -14,7 +14,7 @@ public class Question11 {
 
         }
 
-
+scanner.close();
     }
     }
 

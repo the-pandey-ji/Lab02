@@ -11,5 +11,6 @@ public class Question9 {
         } else {
             System.out.println((char) (ch - 32));
         }
+        scanner.close();
     }
 }

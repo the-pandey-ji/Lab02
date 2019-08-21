@@ -11,5 +11,6 @@ public class Question13 {
             num /= 10;
         }
         System.out.println(sum);
+        scanner.close();
     }
 }

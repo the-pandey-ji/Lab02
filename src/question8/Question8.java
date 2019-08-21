@@ -21,5 +21,6 @@ public class Question8 {
                 System.out.println("9.2%");
             }
         }
+        scanner.close();
     }
 }

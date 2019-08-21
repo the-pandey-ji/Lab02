@@ -49,5 +49,6 @@ public class Question10 {
 
 
         }
+        scanner.close();
     }
 }

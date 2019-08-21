@@ -16,5 +16,6 @@ public class Question12 {
         } else {
             System.out.println(num + " is a composite number.");
         }
+        scanner.close();
     }
 }
